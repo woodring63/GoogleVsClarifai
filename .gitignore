@@ -6,3 +6,5 @@
 .DS_Store
 /build
 /captures
+app/src/main/java/org/hackathon/group/googlevsclarifai/Credentials.java
+
